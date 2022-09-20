@@ -1,0 +1,25 @@
+@import url("https://fonts.google.com/specimen/Roboto+Slab?query=rob");
+
+body {
+  background-color: blue;
+}
+
+h1 {
+  font-family: "Inconsolata", light 300;
+}
+
+.navbar-brand {
+  font-family: "Roboto", light;
+}
+
+h3 {
+  font-family: "Roboto", light;
+}
+
+.navbar-brand {
+  font-family: "Roboto", light;
+}
+
+#outputDiv {
+  display: none;
+}
